@@ -1,0 +1,43 @@
+# 💻 My First C Codes (C Programming Fundamentals)
+
+A collection of foundational **C programming** codes, basic algorithms, mathematical calculations, and university assignments written during my early practice with the C language.
+
+---
+
+## 📂 Included Scripts & Algorithms
+
+This repository contains basic C scripts focusing on logic building, control structures, and mathematical applications:
+
+### 📐 Geometry & Mathematics
+* **`Daire alanı hesaplama.cpp`** – Circle area calculation.
+* **`Dikdörtgenin iç açıları toplamı.cpp`** – Interior angles sum of a rectangle.
+* **`Üçgenin iç açıları toplami.cpp`** – Interior angles sum of a triangle.
+* **`EBOB.cpp` & `EKOK.cpp`** – Greatest Common Divisor (GCD) and Least Common Multiple (LCM) calculations.
+* **`Asal sayı kodu.cpp`** – Prime number check algorithm.
+
+### 🔢 Logic & Conditional Operations
+* **`3'lü swith case mantığı(NOTHESAPLAMASİS).cpp`** – Grade calculation system using nested `switch-case` statements.
+* **`vki hesaplama kodu.cpp`** – Body Mass Index (BMI) calculator.
+* **`en büyük sayıyı bulma.cpp`** – Finding the maximum number among inputs.
+* **`sıralama kodu(if,else,if else).cpp`** – Number sorting using conditional logic (`if`, `else if`, `else`).
+
+### 🔄 Loops & Patterns
+* **`Yıldızlarddan üçgen oluşturma.cpp`** – Pattern printing (triangle using asterisks) with nested loops.
+* **`toplamayı bitirmek için 0 gir.cpp`** – Sentinel-controlled loop (accumulating numbers until 0 is entered).
+
+### 📝 Assignments & Practice
+* **`Odev.cpp`**, **`Odev2.cpp`**, **`Odev3.cpp`** – Practical C assignments demonstrating foundational problem-solving techniques.
+
+---
+
+## 🛠️ Tech Stack & Tools
+* **Language:** C
+* **Compiler / Environment:** GCC / Dev-C++ / VS Code
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/my-first-codes.git](https://github.com/sumeyyeikbalgumus-lgtm/My-First-Codes-)
